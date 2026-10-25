@@ -1,5 +1,5 @@
 # km-ocr
-This repo contains the .ipynb notebooks, the comparision table of different projects, the data used the outputs from both the methods and evaluation of the Qwen model for the task of document text extraction.
+This repo contains the .ipynb notebooks, the comparision table of different projects, the data used the outputs from both the methods and evaluation script used.
 
 The results have been evaluated on Qwen model.
 
